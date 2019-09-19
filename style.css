@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
 }
+
+}
 body {
     margin: 0;
     padding: 0;
@@ -58,4 +60,16 @@ body {
 }
 .display-method-2 {
     background-position: -216px 0;
+}
+
+
+
+#qwer{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+
+.ui-pro{
+    background-color: grey !important;
 }
